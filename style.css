@@ -1,0 +1,25 @@
+#navbar{
+    text-align: right;
+    color:aqua;
+}
+
+div{
+    text-align: center;
+}
+
+form{
+    width: 500px;
+    text-align: center;
+    margin: auto auto;
+    background-color: white;
+    border-style: inset;
+}
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
+
+p{
+    text-align: center;
+}
